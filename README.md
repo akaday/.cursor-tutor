@@ -20,6 +20,16 @@ cursor.moveRight();
 cursor.selectText();
 ```
 
+## Building the Project with Webpack
+
+To build the project using Webpack, follow these steps:
+
+1. Ensure you have Node.js installed on your machine.
+2. Install the necessary dependencies by running `npm install`.
+3. Run the Webpack build process by executing `npx webpack`.
+
+The Webpack configuration file `webpack.config.js` is used to define the build settings.
+
 ## Contributing
 
 We welcome contributions to this project! If you would like to contribute, please follow these steps:
